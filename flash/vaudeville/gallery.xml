@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	backgroundColor="FFFFFF"
+	textColor="999999"
+	frameColor="999999"
+	frameWidth="3"
+	thumbColumns="2"
+	thumbRows="7"
+	showOpenButton="false"
+	showFullscreenButton="false"
+
+>
+  <image imageURL="images/2006-05-07_01-03-31.jpg"
+	thumbURL="thumbs/2006-05-07_01-03-31.jpg"
+	linkURL="images/2006-05-07_01-03-31.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Vaudeville 1]]></caption>
+  </image>
+  <image imageURL="images/2006-05-07_01-28-02.jpg"
+	thumbURL="thumbs/2006-05-07_01-28-02.jpg"
+	linkURL="images/2006-05-07_01-28-02.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Vaudeville 2]]></caption>
+  </image>
+  <image imageURL="images/2006-05-07_01-42-27.jpg"
+	thumbURL="thumbs/2006-05-07_01-42-27.jpg"
+	linkURL="images/2006-05-07_01-42-27.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Vaudeville 3]]></caption>
+  </image>
+  <image imageURL="images/2006-07-07_08-35-46.jpg"
+	thumbURL="thumbs/2006-07-07_08-35-46.jpg"
+	linkURL="images/2006-07-07_08-35-46.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Curtain]]></caption>
+  </image>
+  <image imageURL="images/2006-07-07_08-56-08.jpg"
+	thumbURL="thumbs/2006-07-07_08-56-08.jpg"
+	linkURL="images/2006-07-07_08-56-08.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Tatooed Man]]></caption>
+  </image>
+  <image imageURL="images/2006-07-07_10-23-00.jpg"
+	thumbURL="thumbs/2006-07-07_10-23-00.jpg"
+	linkURL="images/2006-07-07_10-23-00.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Fire Eater]]></caption>
+  </image>
+  <image imageURL="images/2006-08-23_08-24-59.jpg"
+	thumbURL="thumbs/2006-08-23_08-24-59.jpg"
+	linkURL="images/2006-08-23_08-24-59.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Dressing Room 1]]></caption>
+  </image>
+  <image imageURL="images/2006-08-23_08-25-47.jpg"
+	thumbURL="thumbs/2006-08-23_08-25-47.jpg"
+	linkURL="images/2006-08-23_08-25-47.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Dressing Room 2]]></caption>
+  </image>
+  <image imageURL="images/2006-08-23_08-25-55.jpg"
+	thumbURL="thumbs/2006-08-23_08-25-55.jpg"
+	linkURL="images/2006-08-23_08-25-55.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Dressing Room 3]]></caption>
+  </image>
+  <image imageURL="images/2006-08-23_08-59-25.jpg"
+	thumbURL="thumbs/2006-08-23_08-59-25.jpg"
+	linkURL="images/2006-08-23_08-59-25.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Dressing Room 4]]></caption>
+  </image>
+  <image imageURL="images/2006-08-23_09-09-26.jpg"
+	thumbURL="thumbs/2006-08-23_09-09-26.jpg"
+	linkURL="images/2006-08-23_09-09-26.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Backstage]]></caption>
+  </image>
+  <image imageURL="images/2006-08-23_09-17-09.jpg"
+	thumbURL="thumbs/2006-08-23_09-17-09.jpg"
+	linkURL="images/2006-08-23_09-17-09.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Renee Du Jour 1]]></caption>
+  </image>
+  <image imageURL="images/2006-08-23_09-18-03.jpg"
+	thumbURL="thumbs/2006-08-23_09-18-03.jpg"
+	linkURL="images/2006-08-23_09-18-03.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Renee Du Jour 2]]></caption>
+  </image>
+  <image imageURL="images/2006-08-23_09-36-33.jpg"
+	thumbURL="thumbs/2006-08-23_09-36-33.jpg"
+	linkURL="images/2006-08-23_09-36-33.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Knife Thrower]]></caption>
+  </image>
+  <image imageURL="images/2006-08-23_09-38-30.jpg"
+	thumbURL="thumbs/2006-08-23_09-38-30.jpg"
+	linkURL="images/2006-08-23_09-38-30.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Flower 1]]></caption>
+  </image>
+  <image imageURL="images/2006-08-23_09-38-39.jpg"
+	thumbURL="thumbs/2006-08-23_09-38-39.jpg"
+	linkURL="images/2006-08-23_09-38-39.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Flower 2]]></caption>
+  </image>
+  <image imageURL="images/2007-02-21_08-55-15.jpg"
+	thumbURL="thumbs/2007-02-21_08-55-15.jpg"
+	linkURL="images/2007-02-21_08-55-15.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Burlesque Show]]></caption>
+  </image>
+  <image imageURL="images/2007-02-21_09-34-30.jpg"
+	thumbURL="thumbs/2007-02-21_09-34-30.jpg"
+	linkURL="images/2007-02-21_09-34-30.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Parody]]></caption>
+  </image>
+</simpleviewergallery>
